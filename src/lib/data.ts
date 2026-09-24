@@ -83,6 +83,7 @@ export const STUDIO_INFO = {
   reviewsCount: 340,
 };
 
+
 export const SERVICES: Service[] = [
   {
     id: "wedding-photography",
